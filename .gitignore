@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+
+# Office 临时文件
+~$*.docx
+
+# IDE
+.vscode/
+.idea/
